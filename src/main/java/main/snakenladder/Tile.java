@@ -8,7 +8,6 @@ import static javafx.scene.paint.Color.*;
 
 public class Tile extends Rectangle {
 
-
     public Tile(int titleSize){
         setWidth(titleSize);
         setHeight(titleSize);
